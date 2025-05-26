@@ -33,12 +33,7 @@ Cada subpasta representa um projeto independente com escopo próprio e instruç�
 - Criar uma base de automação que possa ser expandida para projetos reais
 - Integrar com plugins de relatórios para gerar evidências automatizadas
 
-## ▶️ Como Executar os Testes
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Cypress-tests.git
-   
+ 
 **Cada projeto possui scripts próprios no package.json e instruções específicas no seu diretório.**
 
 📝 Observações
