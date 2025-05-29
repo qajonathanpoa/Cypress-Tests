@@ -13,7 +13,7 @@ Este repositório centraliza meus estudos e projetos de automação utilizando o
 
 Cada subpasta representa um projeto independente com escopo próprio e instruções específicas no seu `README.md`.
 
-## 📁 Estrutura
+## 📁 Projetos
 
 ## 📁 # [Projeto-Automação API Sr Barriga](https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-srbarriga-api)
 ## 📁 # [Projeto-Automação WEB - Campo de treinamento](https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-aquino-web)
