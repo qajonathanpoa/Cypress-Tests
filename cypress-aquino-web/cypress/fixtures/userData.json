@@ -1,0 +1,11 @@
+{
+    "nome":"Joaninha",
+    "sobrenome":"Cavalca",
+    "sexo":"formSexoMasc",
+    "comida":"pizza",
+    "escolaridade":"superior",
+    "esportes":["Natacao","Futebol","Corrida","Karate"]
+    
+        
+
+}
