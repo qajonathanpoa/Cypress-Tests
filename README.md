@@ -18,6 +18,7 @@ Cada subpasta representa um projeto independente com escopo próprio e instruç�
 ## 📁 [Projeto-Automação WEB - QAZando com POM Page objects Model](https://github.com/qajonathanpoa/cypress-qazando-pageobj-with-it-ui)
 ## 📁 [Projeto-Automação WEB - QAZando com commands](https://github.com/qajonathanpoa/cypress-iniciante-commands-ui)
 ## 📁 [Projeto-Automação WEB - QAZando com cucumber](https://github.com/qajonathanpoa/cypress-cucumber-qazando)
+## 📁 [Projeto-Automação WEB - Saucedemo Marketplace](https://github.com/qajonathanpoa/saucedemo-front)
 
 
 ## 🚀 Tecnologias e Ferramentas
