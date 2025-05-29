@@ -15,7 +15,7 @@ Cada subpasta representa um projeto independente com escopo próprio e instruç�
 
 ## 📁 Projetos
 
-## 📁 [Projeto-Automação WEB - QAZando com POM Page objects Model] (https://github.com/qajonathanpoa/cypress-qazando-pageobj-with-it-ui)
+## 📁 [Projeto-Automação WEB - QAZando com POM Page objects Model](https://github.com/qajonathanpoa/cypress-qazando-pageobj-with-it-ui)
 ## 📁 [Projeto-Automação WEB - QAZando com commands](https://github.com/qajonathanpoa/cypress-iniciante-commands-ui)
 
 
