@@ -15,8 +15,8 @@ Cada subpasta representa um projeto independente com escopo próprio e instruç�
 
 ## 📁 Estrutura
 
-## 📁 Projeto-Automação API Sr Barriga[url(https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-srbarriga-api))]
-## 📁[ Projeto-Automação WEB - Campo de treinamento]([url](https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-aquino-web))
+## 📁 # [Projeto-Automação API Sr Barriga](https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-srbarriga-api)
+## 📁 # [Projeto-Automação WEB - Campo de treinamento](https://github.com/qajonathanpoa/Cypress-Tests/tree/main/cypress-aquino-web)
 
 
 ## 🚀 Tecnologias e Ferramentas
